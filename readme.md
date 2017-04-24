@@ -21,7 +21,7 @@ Below is the entry for `nginx.conf`, this entry must be the top most `server` en
 
 ## License
 
-    Copyright (c) 2015-2017, Matt Rude <matt@mattrude.com>
+    Copyright (c) 2014-2017, Matt Rude <matt@mattrude.com>
     All rights reserved.
     
     Redistribution and use in source and binary forms, with or without
