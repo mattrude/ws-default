@@ -17,8 +17,4 @@ Below is the entry for `nginx.conf`, this entry must be the top most `server` en
         location /readme.md {
             deny all;
         }
-        
-        location /_config.xml {
-            deny all;
-        }
     }
