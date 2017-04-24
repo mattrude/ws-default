@@ -18,7 +18,7 @@ Below is the entry for `nginx.conf`, this entry must be the top most `server` en
             deny all;
         }
         
-        location /_config.yml {
+        location /_config.xml {
             deny all;
         }
     }
