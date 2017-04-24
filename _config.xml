@@ -1,6 +1,0 @@
-seurl: ""
-url: ""
-destination: "/var/www/html"
-
-exclude:
- - README.md
